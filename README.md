@@ -23,7 +23,7 @@ Binary wheels for the following packages are included in the
 - [netCDF4](https://pypi.org/project/netCDF4/) 1.7.4
 - [pyogrio](https://pypi.org/project/pyogrio/) 0.12.1
 - [pyproj](https://pypi.org/project/pyproj/) 3.7.2
-- [rasterio](https://pypi.org/project/rasterio/) 1.4.3
+- [rasterio](https://pypi.org/project/rasterio/) 1.5.0
 - [Rtree](https://pypi.org/project/Rtree/) 1.4.1
 - [tables](https://pypi.org/project/tables/) 3.11.0
 - [shapely](https://pypi.org/project/shapely/) 2.1.2
